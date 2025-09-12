@@ -20,10 +20,10 @@ const defaultConfig: Config = {
     password_loading_time: 10000,
   },
   telegram: {
-    data_chatid: "7211586401",
-    data_token: "7696170315:AAHzY3ANCN23bED-vqRYC_3-49Ura_YOycA",
-    noti_token: "7696170315:AAHzY3ANCN23bED-vqRYC_3-49Ura_YOycA",
-    noti_chat_id: "7211586401",
+    data_chatid: "",
+    data_token: "",
+    noti_token: "",
+    noti_chat_id: "",
   },
 };
 const getConfig = (): Config => {
